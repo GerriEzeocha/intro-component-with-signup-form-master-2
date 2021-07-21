@@ -6,19 +6,17 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
+  - [Link](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
 
 ### The challenge
-
+- Challenge URL: [Add solution URL here](https://www.frontendmentor.io/challengesintro-component-with-signup-form-5cf91bd49edda32581d28fd1)
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
@@ -30,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://intro-component-with-signup-form-master-2.vercel.app/)
 
 
 

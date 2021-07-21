@@ -45,6 +45,7 @@ function validateForm(){
     } else {
       document.getElementById("labelE").innerHTML = "email cannot be empty";
       document.querySelector("input[name='email']").placeholder = "";
+      document.querySelector("input[name='email']").style.border = "0.125rem solid #ff7a7a";
       document.querySelector("input[name='email']").style.background = "url(/images/icon-error.svg) no-repeat";
       document.querySelector("input[name='email']").style.backgroundPosition = "95% 8px";
     }
